@@ -47,7 +47,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Finding the percentage">
+  <component name="RunManager" selected="Python.Lists">
     <configuration name="Finding the percentage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,6 +82,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Solutions/List comprehensions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hackerrank-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Solutions/Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,34 +153,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="salesbymatch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hackerrank-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank/Hackerrank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank/Hackerrank/salesbymatch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lists" />
         <item itemvalue="Python.Finding the percentage" />
         <item itemvalue="Python.Nested Loops" />
         <item itemvalue="Python.Runner-Up Score" />
         <item itemvalue="Python.List comprehensions" />
-        <item itemvalue="Python.salesbymatch" />
       </list>
     </recent_temporary>
   </component>
@@ -193,39 +193,39 @@
       <screen x="0" y="25" width="1792" height="1015" />
     </state>
     <state x="639" y="213" key="#Inspections/0.25.1792.1015@0.25.1792.1015" timestamp="1608112363234" />
-    <state width="1102" height="215" key="GridCell.Tab.0.bottom" timestamp="1609347640813">
-      <screen x="0" y="25" width="1792" height="1023" />
+    <state width="1102" height="215" key="GridCell.Tab.0.bottom" timestamp="1612082348901">
+      <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1013@0.25.1792.1013" timestamp="1608054448530" />
     <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1015@0.25.1792.1015" timestamp="1608113734530" />
-    <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1608292124872" />
+    <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1612082348901" />
     <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1019@0.25.1792.1019" timestamp="1609170760503" />
     <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1021@0.25.1792.1021" timestamp="1609171333433" />
     <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1609347640813" />
-    <state width="1102" height="215" key="GridCell.Tab.0.center" timestamp="1609347640813">
-      <screen x="0" y="25" width="1792" height="1023" />
+    <state width="1102" height="215" key="GridCell.Tab.0.center" timestamp="1612082348900">
+      <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1013@0.25.1792.1013" timestamp="1608054448529" />
     <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1015@0.25.1792.1015" timestamp="1608113734529" />
-    <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1017@0.25.1792.1017" timestamp="1608292124871" />
+    <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1017@0.25.1792.1017" timestamp="1612082348900" />
     <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1019@0.25.1792.1019" timestamp="1609170760503" />
     <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1021@0.25.1792.1021" timestamp="1609171333432" />
     <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1023@0.25.1792.1023" timestamp="1609347640813" />
-    <state width="1102" height="215" key="GridCell.Tab.0.left" timestamp="1609347640812">
-      <screen x="0" y="25" width="1792" height="1023" />
+    <state width="1102" height="215" key="GridCell.Tab.0.left" timestamp="1612082348899">
+      <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1013@0.25.1792.1013" timestamp="1608054448529" />
     <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1015@0.25.1792.1015" timestamp="1608113734529" />
-    <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1017@0.25.1792.1017" timestamp="1608292124871" />
+    <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1017@0.25.1792.1017" timestamp="1612082348899" />
     <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1019@0.25.1792.1019" timestamp="1609170760502" />
     <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1021@0.25.1792.1021" timestamp="1609171333432" />
     <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1023@0.25.1792.1023" timestamp="1609347640812" />
-    <state width="1102" height="215" key="GridCell.Tab.0.right" timestamp="1609347640813">
-      <screen x="0" y="25" width="1792" height="1023" />
+    <state width="1102" height="215" key="GridCell.Tab.0.right" timestamp="1612082348900">
+      <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1013@0.25.1792.1013" timestamp="1608054448530" />
     <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1015@0.25.1792.1015" timestamp="1608113734530" />
-    <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1017@0.25.1792.1017" timestamp="1608292124872" />
+    <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1017@0.25.1792.1017" timestamp="1612082348900" />
     <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1019@0.25.1792.1019" timestamp="1609170760503" />
     <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1021@0.25.1792.1021" timestamp="1609171333432" />
     <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1023@0.25.1792.1023" timestamp="1609347640813" />
