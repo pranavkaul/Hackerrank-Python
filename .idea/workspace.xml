@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5a6535d-2728-438f-97ae-d422d266ee69" name="Default Changelist" comment="update" />
+    <list default="true" id="e5a6535d-2728-438f-97ae-d422d266ee69" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/Python Solutions/What's_Your_Name?.py " afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,6 +206,10 @@
       <screen x="0" y="25" width="1792" height="1015" />
     </state>
     <state x="639" y="213" key="#Inspections/0.25.1792.1015@0.25.1792.1015" timestamp="1608112363234" />
+    <state x="728" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613385859697">
+      <screen x="0" y="25" width="1792" height="1015" />
+    </state>
+    <state x="728" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.1015@0.25.1792.1015" timestamp="1613385859697" />
     <state width="1102" height="215" key="GridCell.Tab.0.bottom" timestamp="1612457713812">
       <screen x="0" y="25" width="1792" height="1015" />
     </state>
