@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5a6535d-2728-438f-97ae-d422d266ee69" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/Python Solutions/Find_a_string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +48,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Mutations">
-    <configuration name="Finding the percentage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Find_a_string">
+    <configuration name="Find_a_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hackerrank-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Solutions/Finding the percentage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Solutions/Find_a_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Find_a_string" />
         <item itemvalue="Python.Mutations" />
         <item itemvalue="Python.sWAP-cASE" />
         <item itemvalue="Python.Tuples" />
         <item itemvalue="Python.Lists" />
-        <item itemvalue="Python.Finding the percentage" />
       </list>
     </recent_temporary>
   </component>
@@ -209,42 +210,42 @@
       <screen x="0" y="25" width="1792" height="1015" />
     </state>
     <state x="728" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.1015@0.25.1792.1015" timestamp="1613385859697" />
-    <state width="1102" height="215" key="GridCell.Tab.0.bottom" timestamp="1613497588199">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1102" height="215" key="GridCell.Tab.0.bottom" timestamp="1613981356388">
+      <screen x="0" y="25" width="1792" height="1023" />
     </state>
     <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1013@0.25.1792.1013" timestamp="1608054448530" />
     <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1015@0.25.1792.1015" timestamp="1612457713812" />
     <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1613497588199" />
     <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1019@0.25.1792.1019" timestamp="1612368210427" />
     <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1021@0.25.1792.1021" timestamp="1609171333433" />
-    <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1609347640813" />
-    <state width="1102" height="215" key="GridCell.Tab.0.center" timestamp="1613497588198">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1102" height="215" key="GridCell.Tab.0.bottom/0.25.1792.1023@0.25.1792.1023" timestamp="1613981356388" />
+    <state width="1102" height="215" key="GridCell.Tab.0.center" timestamp="1613981356387">
+      <screen x="0" y="25" width="1792" height="1023" />
     </state>
     <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1013@0.25.1792.1013" timestamp="1608054448529" />
     <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1015@0.25.1792.1015" timestamp="1612457713812" />
     <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1017@0.25.1792.1017" timestamp="1613497588198" />
     <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1019@0.25.1792.1019" timestamp="1612368210426" />
     <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1021@0.25.1792.1021" timestamp="1609171333432" />
-    <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1023@0.25.1792.1023" timestamp="1609347640813" />
-    <state width="1102" height="215" key="GridCell.Tab.0.left" timestamp="1613497588197">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1102" height="215" key="GridCell.Tab.0.center/0.25.1792.1023@0.25.1792.1023" timestamp="1613981356387" />
+    <state width="1102" height="215" key="GridCell.Tab.0.left" timestamp="1613981356387">
+      <screen x="0" y="25" width="1792" height="1023" />
     </state>
     <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1013@0.25.1792.1013" timestamp="1608054448529" />
     <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1015@0.25.1792.1015" timestamp="1612457713812" />
     <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1017@0.25.1792.1017" timestamp="1613497588197" />
     <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1019@0.25.1792.1019" timestamp="1612368210426" />
     <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1021@0.25.1792.1021" timestamp="1609171333432" />
-    <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1023@0.25.1792.1023" timestamp="1609347640812" />
-    <state width="1102" height="215" key="GridCell.Tab.0.right" timestamp="1613497588198">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1102" height="215" key="GridCell.Tab.0.left/0.25.1792.1023@0.25.1792.1023" timestamp="1613981356387" />
+    <state width="1102" height="215" key="GridCell.Tab.0.right" timestamp="1613981356387">
+      <screen x="0" y="25" width="1792" height="1023" />
     </state>
     <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1013@0.25.1792.1013" timestamp="1608054448530" />
     <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1015@0.25.1792.1015" timestamp="1612457713812" />
     <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1017@0.25.1792.1017" timestamp="1613497588198" />
     <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1019@0.25.1792.1019" timestamp="1612368210427" />
     <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1021@0.25.1792.1021" timestamp="1609171333432" />
-    <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1023@0.25.1792.1023" timestamp="1609347640813" />
+    <state width="1102" height="215" key="GridCell.Tab.0.right/0.25.1792.1023@0.25.1792.1023" timestamp="1613981356387" />
     <state x="686" y="245" key="Vcs.Push.Dialog.v2" timestamp="1612192298581">
       <screen x="0" y="25" width="1792" height="1019" />
     </state>
