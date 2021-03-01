@@ -25,12 +25,9 @@ My solutions of Hackerrank Python challenges.This repository is mainly for my pr
 [What's your name](https://www.hackerrank.com/challenges/whats-your-name/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/What's_Your_Name.py)|
 [sWAP CASE](https://www.hackerrank.com/challenges/swap-case/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/sWAP-cASE.py)|
 [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Write%20a%20function.py)|
-<<<<<<< HEAD
-[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Write%20a%20function.py)|
-=======
 [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Find_a_string.py)|
-
->>>>>>> e2b9ff79f15497eb9aadf9c3ca888f4da02eff4b
+[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)[Solution]
+(https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/String_Validators.py)|
 
 
 
