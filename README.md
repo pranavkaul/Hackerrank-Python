@@ -1,6 +1,14 @@
 # Hackerrank-Python
-
+ 
+<p align="center">  
+	<br>
+	<a href="https://www.hackerrank.com/pkaul7">
+        <img height=100 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
+    </a>
+    <br>
+</p>
 My solutions of Hackerrank Python challenges.This repository is mainly for my practice and future references, but anyone can use it for learning.
+
 
  Challenge | Solution |
 |:---------:|:--------:|
@@ -17,7 +25,12 @@ My solutions of Hackerrank Python challenges.This repository is mainly for my pr
 [What's your name](https://www.hackerrank.com/challenges/whats-your-name/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/What's_Your_Name.py)|
 [sWAP CASE](https://www.hackerrank.com/challenges/swap-case/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/sWAP-cASE.py)|
 [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Write%20a%20function.py)|
+<<<<<<< HEAD
 [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Write%20a%20function.py)|
+=======
+[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Find_a_string.py)|
+
+>>>>>>> e2b9ff79f15497eb9aadf9c3ca888f4da02eff4b
 
 
 
