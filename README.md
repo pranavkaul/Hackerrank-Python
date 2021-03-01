@@ -1,5 +1,12 @@
 # Hackerrank-Python
-
+ 
+<p align="center">  
+	<br>
+	<a href="https://www.hackerrank.com/pkaul7">
+        <img height=100 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
+    </a>
+    <br>
+</p>
 My solutions of Hackerrank Python challenges.This repository is mainly for my practice and future references, but anyone can use it for learning.
 
  Challenge | Solution |
