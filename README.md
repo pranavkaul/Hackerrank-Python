@@ -17,6 +17,7 @@ My solutions of Hackerrank Python challenges.This repository is mainly for my pr
 [What's your name](https://www.hackerrank.com/challenges/whats-your-name/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/What's_Your_Name.py)|
 [sWAP CASE](https://www.hackerrank.com/challenges/swap-case/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/sWAP-cASE.py)|
 [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Write%20a%20function.py)|
+[String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Write%20a%20function.py)|
 
 
 
