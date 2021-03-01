@@ -9,6 +9,7 @@
 </p>
 My solutions of Hackerrank Python challenges.This repository is mainly for my practice and future references, but anyone can use it for learning.
 
+
  Challenge | Solution |
 |:---------:|:--------:|
 [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Finding%20the%20percentage.py)|
