@@ -30,6 +30,7 @@ My solutions of Hackerrank Python challenges.This repository is mainly for my pr
 [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Find_a_string.py)|
 [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/String_Validators.py)|
 [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Text_Alignment.py)|
+[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Text_wrap.py)|
 
 
 
