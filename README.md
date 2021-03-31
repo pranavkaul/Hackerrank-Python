@@ -34,6 +34,7 @@ My solutions of Hackerrank Python challenges.This repository is mainly for my pr
 [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Text_Alignment.py)|
 [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Text_wrap.py)|
 [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Designer_Door_Mat.py)|
+[String Formating](https://www.hackerrank.com/challenges/python-string-formatting/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/String_Formating.py)|
 
 
 
