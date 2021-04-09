@@ -37,6 +37,7 @@ My solutions of Hackerrank Python challenges.This repository is mainly for my pr
 [String Formating](https://www.hackerrank.com/challenges/python-string-formatting/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/String_Formating.py)|
 [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Alphabet_Rangoli.py)|
 [Capitalize](https://www.hackerrank.com/challenges/capitalize/problem)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/Capitalize.py)|
+[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/)|[Solution](https://github.com/pranavkaul/Hackerrank_Python/blob/main/Python%20Solutions/The_Minion_Game.py)|
 
 
 
